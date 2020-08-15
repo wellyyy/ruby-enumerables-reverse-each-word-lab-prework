@@ -1,5 +1,6 @@
 def reverse_each_word(string)
   arr = string.split(" ")
   answer = []
-  arr.collect
+  array.collect do|string|
+    test_array << string.reverse
 end
